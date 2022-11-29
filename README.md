@@ -108,3 +108,6 @@ The top represents the interface in simulation mode, the bottom in paint mode. T
 8. the selected cell type in paint mode
 9. stops the paint mode and starts the simulation
 10. stops the recording
+
+### You need at least Java SE 15 to run the jar
+You can get the newest version here: https://www.oracle.com/java/technologies/downloads/
