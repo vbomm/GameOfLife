@@ -2,6 +2,8 @@
 
 # Game of Life
 
+------------------
+
 This is a multicolored variant of Conway's Game of Life, a cellular automaton, which shows that simple algorithms can result in complex outcomes. It is programmed in Java and uses Swing for the frontend.
 
 Traditionally, it is a zero-player game where the future for each cell gets decided by the amount of its neighbors. Each cell can have the state "dead" or "live". In this variant, five colors additionally represent five different live cell types.
@@ -93,6 +95,8 @@ In the following tables there are a few examples of what kind of different cell 
 
 ## The Interface
 
+------------------
+
 The top represents the interface in simulation mode, the bottom in paint mode. The Populate-Button and the Record-Button are present in both modes.
 
 <img src="readme/interface.png">
@@ -110,4 +114,7 @@ The top represents the interface in simulation mode, the bottom in paint mode. T
 10. stops the recording
 
 ### You need at least Java SE 15 to run the jar
+
+------------------
+
 You can get the newest version here: https://www.oracle.com/java/technologies/downloads/
