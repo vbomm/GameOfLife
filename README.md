@@ -92,6 +92,7 @@ In the following tables there are a few examples of what kind of different cell 
     <td><img src="readme/heavyweightspaceship.gif"></td>
   </tr>
 </table>
+<br>
 
 ## The Interface
 
@@ -112,6 +113,8 @@ The top represents the interface in simulation mode, the bottom in paint mode. T
 8. the selected cell type in paint mode
 9. stops the paint mode and starts the simulation
 10. stops the recording
+<br>
+<br>
 
 ### You need at least Java SE 15 to run the jar
 
